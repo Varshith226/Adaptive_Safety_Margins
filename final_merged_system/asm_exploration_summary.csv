@@ -1,0 +1,6 @@
+Method,Steps to First Success
+Conservative,250000
+ASM-Sigmoid,250000
+Aggressive,246000
+ASM-Linear,248000
+ASM-Step,244000
